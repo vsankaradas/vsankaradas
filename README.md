@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="400" />
 </p>
